@@ -40,7 +40,6 @@ fun ArtGalleryApp() {
             title = "Hyoga de cisne",
             author = "Cavaleiro dos Zodíaco",
             year = "1994"
-            asdff
         )
     )
 
